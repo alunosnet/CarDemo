@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDemo.CSharp.Plugins", "CarDemo.CSharp.Plugins.csproj", "{BA28BA99-36B2-6A4D-B17F-39F6CFE3F657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDemo.CSharp", "CarDemo.CSharp.csproj", "{0049F52F-5F5D-9985-8926-036D350E1FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA28BA99-36B2-6A4D-B17F-39F6CFE3F657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA28BA99-36B2-6A4D-B17F-39F6CFE3F657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA28BA99-36B2-6A4D-B17F-39F6CFE3F657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA28BA99-36B2-6A4D-B17F-39F6CFE3F657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0049F52F-5F5D-9985-8926-036D350E1FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0049F52F-5F5D-9985-8926-036D350E1FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0049F52F-5F5D-9985-8926-036D350E1FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0049F52F-5F5D-9985-8926-036D350E1FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
